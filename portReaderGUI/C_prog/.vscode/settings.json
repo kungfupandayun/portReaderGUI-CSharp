@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "TDHotelsSQL_": "sql",
+        "*.vhd": "search-result",
+        "aes.h": "c"
+    }
+}

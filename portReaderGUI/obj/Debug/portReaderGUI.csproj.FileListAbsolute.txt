@@ -1,0 +1,15 @@
+C:\XilnxISE\application\GUIportReader\portReaderGUI\portReaderGUI\obj\Debug\portReaderGUI.csprojAssemblyReference.cache
+C:\XilnxISE\application\GUIportReader\portReaderGUI\portReaderGUI\obj\Debug\App.g.cs
+C:\XilnxISE\application\GUIportReader\portReaderGUI\portReaderGUI\obj\Debug\portReaderGUI_MarkupCompile.cache
+C:\XilnxISE\application\GUIportReader\portReaderGUI\portReaderGUI\obj\Debug\portReaderGUI_MarkupCompile.lref
+C:\XilnxISE\application\GUIportReader\portReaderGUI\portReaderGUI\bin\Debug\portReaderGUI.exe.config
+C:\XilnxISE\application\GUIportReader\portReaderGUI\portReaderGUI\bin\Debug\portReaderGUI.exe
+C:\XilnxISE\application\GUIportReader\portReaderGUI\portReaderGUI\bin\Debug\portReaderGUI.pdb
+C:\XilnxISE\application\GUIportReader\portReaderGUI\portReaderGUI\obj\Debug\MainWindow.g.cs
+C:\XilnxISE\application\GUIportReader\portReaderGUI\portReaderGUI\obj\Debug\MainWindow.baml
+C:\XilnxISE\application\GUIportReader\portReaderGUI\portReaderGUI\obj\Debug\portReaderGUI.g.resources
+C:\XilnxISE\application\GUIportReader\portReaderGUI\portReaderGUI\obj\Debug\portReaderGUI.Properties.Resources.resources
+C:\XilnxISE\application\GUIportReader\portReaderGUI\portReaderGUI\obj\Debug\portReaderGUI.csproj.GenerateResource.cache
+C:\XilnxISE\application\GUIportReader\portReaderGUI\portReaderGUI\obj\Debug\portReaderGUI.csproj.CoreCompileInputs.cache
+C:\XilnxISE\application\GUIportReader\portReaderGUI\portReaderGUI\obj\Debug\portReaderGUI.exe
+C:\XilnxISE\application\GUIportReader\portReaderGUI\portReaderGUI\obj\Debug\portReaderGUI.pdb
